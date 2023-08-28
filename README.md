@@ -7,3 +7,4 @@ Oyun paneli içerisinde iki adet oyun bulunmaktadır.İlk random olarak 5 matema
 Veli modülüne Mssql ile db bağlantılı olarak giriş yaıplabilmekte ardından ise öğrencinin sınav notu görüntülemesi,ders programı görüntülemesi,sınav takvimi görüntülemesi,veli şifre güncellemesi işlemlerini yapabilmektedir.
 Yönetici modülüne Mssql ile db bağlantılı olarak giriş yapılabilmekte ardından ise sınav sekmesi,ders programı,sınav takvimi ve kullanıcı işlemleri yer almaktadır.Sınav sekmesinde öğrencinin sınat notları sisteme kayıt/güncelleme/sil işlemleri yapılmakta,ders pogramı sekmesinde ders programı kayıt/güncelle/sil işlemleri yapılmkata,sınav takvimi sekmesinde  takvim için kayıt/güncelle/sil işlemleri yapılmkata,
 Kullanıcı işlemleri sekmesinde öğrenci,veli,yönetici  kayıt/güncelle/sil işlemleri yapılabilmetedir.
+Uygulama ekran alıntıları jpeg olarak yüklenmiştir.
